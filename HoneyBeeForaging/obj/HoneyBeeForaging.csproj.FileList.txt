@@ -1,0 +1,10 @@
+bin\Release\HoneyBeeForaging.exe
+bin\Release\HoneyBeeForaging.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\HoneyBeeForaging.exe
+obj\Release\HoneyBeeForaging.pdb
+bin\Debug\HoneyBeeForaging.exe
+bin\Debug\HoneyBeeForaging.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\HoneyBeeForaging.exe
+obj\Debug\HoneyBeeForaging.pdb
